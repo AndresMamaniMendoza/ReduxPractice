@@ -27,3 +27,5 @@
 
 ## Add the Button element in the CourseComponent, also add the HandleDelete to the OnClick of the element.
 ![stepCourse4](/images/StepsDeleteCourse/s4.png)
+
+![stepCourse5](/images/StepsDeleteCourse/s5.png)
