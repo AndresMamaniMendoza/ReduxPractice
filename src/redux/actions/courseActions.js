@@ -1,7 +1,6 @@
 console.log(`Step3: Defining actions...`);
 
 export function createCourse(course) {
-  console.log('Creating Actions..')
   return  { type: "CREATE_COURSE", course };
 }
 
